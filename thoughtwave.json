@@ -352,7 +352,7 @@
 				},
 				{
 					"name": "contact",
-					"title": "Contact",
+					"title": "",
 					"zoneless": true,
 					"type": "page",
 					"components": [
@@ -474,7 +474,7 @@
 							"dest_selector": "",
 							"dest_position": "",
 							"class": "",
-							"title": "",
+							"title": "Contact",
 							"title_icon_class": "",
 							"events_code": "",
 							"helpers_code": "",
@@ -1088,12 +1088,12 @@
 				},
 				{
 					"name": "support",
-					"title": "Support Request",
+					"title": "",
 					"type": "page",
 					"components": [
 						{
 							"name": "support_id",
-							"text": "<p>{{userFullName}}, you can enter a message in the box below and it will be sent to support.  Someone will reply to you at {{userEmail}}.  Please note, if you have a support contract, you will be able to dial directly or reach us on Slack, which is much quicker.</p>\n",
+							"text": "<h2>Message to Support</h2>\n<p>{{userFullName}}, you can enter a message in the box below and it will be sent to support.  Someone will reply to you at {{userEmail}}.  Please note, if you have a support contract, you will be able to dial directly or reach us on Slack, which is much quicker.</p>\n",
 							"type": "section",
 							"imports": [],
 							"dest_selector": "",

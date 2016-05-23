@@ -4,6 +4,7 @@ header {
 
 
 
+
 .topbutton {
             background-color: Transparent;
             background-repeat:no-repeat;
@@ -32,8 +33,12 @@ header {
 	background: #337ab7;
 }
 
+form h2 {
+  padding-top: 6vh;
+}
+
 .jumbotron h1 {
-	padding-top: 8vh;
+	padding-top: 5vh;
 	font-size: 8vh;
 	font-weight: 700;
 	text-shadow: 0.2vw 0.2vw blue;
@@ -161,3 +166,5 @@ video .player {
 	height: 30vh;
 	overflow: hidden;	
 }
+
+
