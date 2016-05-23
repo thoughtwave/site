@@ -1,6 +1,6 @@
 {
 	"application": {
-		"title": "ThoughtWave Technologies, Inc.",
+		"title": "ThoughtWave Technologies",
 		"theme": "bootswatch-flatly",
 		"collections": [],
 		"queries": [
@@ -250,7 +250,7 @@
 				},
 				{
 					"name": "devops",
-					"title": "DevOps",
+					"title": "",
 					"text": "<h1 id=\"devops\">DevOps Services</h1>\n\nDo you honestly need to hire a full time DevOps person?  If you do, there are many staffing agencies who will charge you $35,000 in a finders fee to hire someone who you will then have to pay $150,000 to $160,000 a year.  If that doesn't sound like a nightmare, you're probably better off hiring someone directly.\n\nOur philosophy is different from how the staffing agencies and consulting agencies work.  The fact is, you may have one or two areas where you need help, but you don't want to hire a costly hourly consultant.  We offer several packages of what we like to call <i>cafeteria-style</i> DevOps.  What this means is that you can pick and choose what services you want, pay a weekly flat rate, and get expertise in those particular services without having to worry about hiring.\n\t<div class=\"row\">\n\t\t<div class=\"col-md-6\">\n\t\t\t<span class=\"fa-stack fa-4x\">\n\t\t\t\t<i class=\"fa fa-circle fa-stack-2x text-primary\"></i>\n\t\t\t\t<i class=\"fa fa-dollar fa-stack-1x fa-inverse\"></i>\n\t\t\t</span>\n\t\t\t<h4 class=\"service-heading\">Cloud Account Weekly Audit - $50</h4>\n\t\t\t<p class=\"text-muted\">You don't need to spend a lot of money having someone go through and audit your usage and capacity planning.  We'll have a real human being, or a sufficiently intelligent cyborg, review your Amazon Web Services account, checking for things like database security patches that need to be applied, upcoming events, and cost alarms, so that you can worry about making your app work properly.</p>\n<form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">\n<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n<input type=\"hidden\" name=\"hosted_button_id\" value=\"4RQRVD5365UKJ\">\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_subscribeCC_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal - The safer, easier way to pay online!\">\n<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n</form>\n\t\t</div>\n\t\t<div class=\"col-md-6\">\n\t\t\t<span class=\"fa-stack fa-4x\">\n\t\t\t\t<i class=\"fa fa-circle fa-stack-2x text-primary\"></i>\n\t\t\t\t<i class=\"fa fa-play-circle-o fa-stack-1x fa-inverse\"></i>\n\t\t\t</span>\n\t\t\t<h4 class=\"service-heading\">Jenkins Build Server Weekly Support - $250</h4>\n\t\t\t<p class=\"text-muted\">Your continuous integration system keeps you in the game, so why should a failed build due to a misconfiguration sideline you?  Why should a memory error prevent your automatic deployment from completing?  We'll figure out which modules to install to customize and manage your Jenkins CI server.  We'll get your automatic builds working again, help with capacity planning and make sure you don't lose valuable developer time to failing builds.</p>\n<form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">\n<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n<input type=\"hidden\" name=\"hosted_button_id\" value=\"N27FC7SXQMB2J\">\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_subscribeCC_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal - The safer, easier way to pay online!\">\n<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n</form>\n\t\t</div>\n\n\t\t</div>\n\t\t<div class=\"row\">\n\t\t<div class=\"col-md-6\">\n\t\t\t<span class=\"fa-stack fa-4x\">\n\t\t\t\t<i class=\"fa fa-circle fa-stack-2x text-primary\"></i>\n\t\t\t\t<i class=\"fa fa-github fa-stack-1x fa-inverse\"></i>\n\t\t\t</span>\n\t\t\t<h4 class=\"service-heading\">GitHub Account Weekly Support - $200</h4>\n\t\t\t<p class=\"text-muted\">We'll manage all the aspects of adding and removing users from your GitHub account, tracking branches that aren't in use any more, creating and removing repositories and helping with various integrations such as WebHooks and Jenkins builds.  This may also be used to manage your on-site Git server or a cloud-based one if you have it.  Merge conflicts aren't included with this package, because those are hard to fix.</p>\n<form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">\n<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n<input type=\"hidden\" name=\"hosted_button_id\" value=\"US5ZGGJCZH3ZU\">\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_subscribeCC_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal - The safer, easier way to pay online!\">\n<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n</form>\n\t\t</div>\n\t\t<div class=\"col-md-6\">\n\t\t\t<span class=\"fa-stack fa-4x\">\n\t\t\t\t<i class=\"fa fa-circle fa-stack-2x text-primary\"></i>\n\t\t\t\t<i class=\"fa fa-linux fa-stack-1x fa-inverse\"></i>\n\t\t\t</span>\n\t\t\t<h4 class=\"service-heading\">OpsWorks / Elastic Beanstalk Stack Weekly Support - $175</h4>\n\t\t\t<p class=\"text-muted\">We'll manage one OpsWorks or Elastic Beanstalk stack.  This includes troubleshooting instance issues, working with autoscaling, re-deploying applications, supporting Jenkins automatic deploys to Beanstalk, upgrades, patches, CloudWatch alarms, cloning environments, help with recipes and .ebextenions, and deploying rolling patches.  We'll also train you on best practices to make these easier to manage.</p>\n<form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">\n<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n<input type=\"hidden\" name=\"hosted_button_id\" value=\"NBV965DGS3HLQ\">\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_subscribeCC_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal - The safer, easier way to pay online!\">\n<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n</form>\n\t\t</div>\n\t</div>",
 					"zoneless": true,
 					"type": "page",
@@ -284,7 +284,7 @@
 				},
 				{
 					"name": "cloud",
-					"title": "Services",
+					"title": "",
 					"text": "<h1 id=\"cloud\">Cloud Services & Hosting</h1>\n\t<div class=\"row\">\n\t\t<div class=\"col-md-4\">\n\t\t\t<span class=\"fa-stack fa-4x\">\n\t\t\t\t<i class=\"fa fa-circle fa-stack-2x text-primary\"></i>\n\t\t\t\t<i class=\"fa fa-cloud fa-stack-1x fa-inverse\"></i>\n\t\t\t</span>\n\t\t\t<h4 class=\"service-heading\">Monthly Linux VM - $50</h4>\n\t\t\t<p class=\"text-muted\">We manage our own OpenStack Cloud and have a single Linux VM offering.  It includes 4 cores, and 4GB of RAM as well as 40GB of disk space.  You can choose from several different OS choices.  This includes reasonable Q&A and basic support for installing software and performing troubleshooting.  This includes reverse DNS configuration.</p>\n<form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">\n<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n<input type=\"hidden\" name=\"hosted_button_id\" value=\"K689EYHE5FF2J\">\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_subscribeCC_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal - The safer, easier way to pay online!\">\n<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n</form>\n\t\t</div>\n\n\t\t<div class=\"col-md-4\">\n\t\t\t<span class=\"fa-stack fa-4x\">\n\t\t\t\t<i class=\"fa fa-circle fa-stack-2x text-primary\"></i>\n\t\t\t\t<i class=\"fa fa-cloud fa-stack-1x fa-inverse\"></i>\n\t\t\t</span>\n\t\t\t<h4 class=\"service-heading\">Monthly Solaris VM - $159</h4>\n\t\t\t<p class=\"text-muted\">We are one of the few providers that offers Oracle Solaris SPARC VMs.  This includes 1GB of RAM and 1 CPU thread along with 20GB of disk space.  Your system will include the latest available Solaris Operating system.  This is a semi-managed solution, meaning we'll install the operating system and help with basic configuration.  You are responsible for ensuring that you have a valid Oracle support contract if you intend to use this for commercial operations.  This includes reverse DNS configuration.</p>\n<form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">\n<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n<input type=\"hidden\" name=\"hosted_button_id\" value=\"4NRL3DTVNVHZY\">\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_subscribeCC_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal - The safer, easier way to pay online!\">\n<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n</form>\n\t\t</div>\n\t\t<div class=\"col-md-4\">\n\t\t\t<span class=\"fa-stack fa-4x\">\n\t\t\t\t<i class=\"fa fa-circle fa-stack-2x text-primary\"></i>\n\t\t\t\t<i class=\"fa fa-server fa-stack-1x fa-inverse\"></i>\n\t\t\t</span>\n\t\t\t<h4 class=\"service-heading\">Monthly Bare Metal Server - <a href=\"#contact\">Contact Us</a></h4>\n\t\t\t<p class=\"text-muted\">We do not maintain our own bare metal cloud, but we have several partners in the same data center that offer great deals on bare metal hardware, and we can offer the application support and management at a very competitive price.  You won't have to set foot in a single data center which means not losing your hearing or freezing.</p>\n\t\t</div>\n\t</div>",
 					"zoneless": true,
 					"type": "page",
@@ -318,7 +318,7 @@
 				},
 				{
 					"name": "expertise",
-					"title": "Expertise",
+					"title": "",
 					"text": "<h1 id=\"expertise\">Consulting & Managed Services</h1>\n\n<h2>How Can We Help?</h2>\nIf you're looking to put together a team for your short term or immediate needs, we can help you with that.  In fact, if you are early stage and don't have seed funding, we may be able to work out an equity arrangement depending on how good your idea is.\n\t<div class=\"row\">\n\t\t<div class=\"col-md-4\">\n\t\t\t<h4 class=\"service-heading\">Weekly IT / DevOps Support - $1200</h4>\n\t\t\t<p class=\"text-muted\">Do you need an on-call person who can handle all of your support needs?  Do you need someone who can interact with your developers on slack and help them debug and troubleshoot your apps?  Do you need someone who can migrate large pools of data from one location ot another?  Do you need someone who can help you troubleshoot software errors, patch servers, and deal with user access issues?  You'll get someone stateside who can help with everything you need.  Call <a href=\"callto:13103177933\">+1 310 317 7933</a> for more information</p>\n<form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">\n<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n<input type=\"hidden\" name=\"hosted_button_id\" value=\"6YU9BABGLGFRG\">\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_subscribeCC_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal - The safer, easier way to pay online!\">\n<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n</form>\n\t\t</div>\n\n\t\t<div class=\"col-md-4\">\n\t\t\t<h4 class=\"service-heading\">CTO-for-Hire</h4>\n\t\t\t<p class=\"text-muted\">Our founder has made himself available for limited engagements at a reasonable monthly rate to help new startups build their technology departments and obtain venture funding.  For a flat monthly rate, you'll get business advisory services including help drawing up job descriptions for technologists, help developing vendor selection criteria, and help designing workflows for continuous integration, scrum, and operations support.  You'll also get someone who can work a room and charm investors if necessary.  The first week is free, to give both parties an opportunity to evaluate the situation.</p>\n<form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">\n<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n<input type=\"hidden\" name=\"hosted_button_id\" value=\"32QCWK8UGZDVL\">\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_subscribeCC_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal - The safer, easier way to pay online!\">\n<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n</form>\n\n\t\t</div>\n\t\t<div class=\"col-md-4\"> \n\t\t\t\t\t<h4 class=\"service-heading\">Jonathan Kalbfeld</h4><h5>former NASA guy</h5>\n\t\t\t\t\t<img src=\"/images/jk.jpg\">\n\t\t</div>\n\t</div>",
 					"zoneless": true,
 					"type": "page",
@@ -528,9 +528,9 @@
 			],
 			"components": [
 				{
-					"name": "left_menu",
+					"name": "public_menu",
 					"type": "menu",
-					"class": "nav navbar-nav",
+					"class": "nav navbar-nav navbar-right",
 					"dest_selector": "#menu",
 					"items": [
 						{
@@ -598,49 +598,40 @@
 							"class": "",
 							"items_container_class": "",
 							"items": []
-						}
-					],
-					"imports": [],
-					"dest_position": "",
-					"title": "",
-					"title_icon_class": "",
-					"events_code": "",
-					"helpers_code": "",
-					"query_name": "",
-					"query_params": [],
-					"custom_data_code": "",
-					"components": [],
-					"template_rendered_code": "",
-					"items_container_class": "",
-					"scroll_spy_selector": ""
-				},
-				{
-					"name": "right_menu",
-					"type": "menu",
-					"class": "nav navbar-nav navbar-right",
-					"dest_selector": "#menu",
-					"items": [
-						{
-							"title": "Register",
-							"route": "register",
-							"route_params": [],
-							"url": "",
-							"target": "",
-							"class": "",
-							"items_container_class": "",
-							"icon_class": "",
-							"items": []
 						},
 						{
-							"title": "Login",
-							"route": "login",
-							"route_params": [],
+							"title": "Account",
+							"route": "",
 							"url": "",
 							"target": "",
 							"class": "",
 							"items_container_class": "",
-							"icon_class": "",
-							"items": []
+							"icon_class": "fa fa-cog",
+							"route_params": [],
+							"items": [
+								{
+									"title": "Register",
+									"route": "register",
+									"url": "",
+									"target": "",
+									"class": "",
+									"items_container_class": "",
+									"icon_class": "",
+									"route_params": [],
+									"items": []
+								},
+								{
+									"title": "Login",
+									"route": "login",
+									"url": "",
+									"target": "",
+									"class": "",
+									"items_container_class": "",
+									"icon_class": "",
+									"route_params": [],
+									"items": []
+								}
+							]
 						}
 					],
 					"imports": [],
@@ -1286,9 +1277,9 @@
 			],
 			"components": [
 				{
-					"name": "left_menu",
+					"name": "private_menu",
 					"type": "menu",
-					"class": "nav navbar-nav",
+					"class": "nav navbar-nav navbar-right",
 					"dest_selector": "#menu",
 					"items": [
 						{
@@ -1358,7 +1349,7 @@
 							"items": []
 						},
 						{
-							"title": "Tools",
+							"title": "Account",
 							"items": [
 								{
 									"title": "Cloud Login",
@@ -1403,6 +1394,28 @@
 									"items_container_class": "",
 									"icon_class": "",
 									"items": []
+								},
+								{
+									"title": "Settings",
+									"route": "user_settings",
+									"url": "",
+									"target": "",
+									"class": "",
+									"items_container_class": "",
+									"icon_class": "",
+									"route_params": [],
+									"items": []
+								},
+								{
+									"title": "Logout",
+									"route": "logout",
+									"url": "",
+									"target": "",
+									"class": "",
+									"items_container_class": "",
+									"icon_class": "",
+									"route_params": [],
+									"items": []
 								}
 							],
 							"route": "",
@@ -1411,62 +1424,7 @@
 							"target": "",
 							"class": "",
 							"items_container_class": "",
-							"icon_class": ""
-						}
-					],
-					"imports": [],
-					"dest_position": "",
-					"title": "",
-					"title_icon_class": "",
-					"events_code": "",
-					"helpers_code": "",
-					"query_name": "",
-					"query_params": [],
-					"custom_data_code": "",
-					"components": [],
-					"template_rendered_code": "",
-					"items_container_class": "",
-					"scroll_spy_selector": ""
-				},
-				{
-					"name": "right_menu",
-					"type": "menu",
-					"class": "nav navbar-nav navbar-right",
-					"dest_selector": "#menu",
-					"items": [
-						{
-							"items": [
-								{
-									"title": "Settings",
-									"route": "user_settings",
-									"route_params": [],
-									"url": "",
-									"target": "",
-									"class": "",
-									"items_container_class": "",
-									"icon_class": "",
-									"items": []
-								},
-								{
-									"title": "Logout",
-									"route": "logout",
-									"route_params": [],
-									"url": "",
-									"target": "",
-									"class": "",
-									"items_container_class": "",
-									"icon_class": "",
-									"items": []
-								}
-							],
-							"icon_class": "fa fa-cog",
-							"title": "",
-							"route": "",
-							"route_params": [],
-							"url": "",
-							"target": "",
-							"class": "",
-							"items_container_class": ""
+							"icon_class": "fa fa-cog"
 						}
 					],
 					"imports": [],
