@@ -1483,9 +1483,11 @@
 		"meta_title": "",
 		"templating": "blaze",
 		"frontend": "bootstrap3",
-		"footer_text": "",
-		"roles": [],
-		"default_role": "",
+		"footer_text": "Copyright &copy; 1994 - 2016, ThoughtWave Technologies, Inc.",
+		"roles": [
+			"admin, user"
+		],
+		"default_role": "user",
 		"use_collection2": false,
 		"login_with_password": true,
 		"send_verification_email": false,
