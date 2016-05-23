@@ -92,6 +92,10 @@ section p.text-muted {
   color: black; 
 }
 
+p.text-muted {
+ color: black;
+}
+
 section {
 /*	padding: 0 0 30px 0; */
 	padding: 5vw 5vw 5vw 5vw;
