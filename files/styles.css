@@ -127,9 +127,12 @@ section .large-icon {
 	position: relative;
 	top: 0%;
 	left: 0%;
-	height: auto;
-	width: auto;
+	min-height: 216;
+	min-width: 384;
+	max-height: 432;
+	max-width: 768;
 	overflow: hidden;
+	object-fit: cover;
 	z-index: 1;
 }
 
