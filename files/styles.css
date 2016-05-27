@@ -148,7 +148,7 @@ video {
 	opacity: 0.95;
 	width: 100%;
 	height: 100vh;
-	object-fit: fill;
+	object-fit: cover;
 	overflow: hidden;
 }
 
