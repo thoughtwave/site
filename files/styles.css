@@ -128,8 +128,8 @@ section .large-icon {
 	position: relative;
 	top: 0%;
 	left: 0%;
-	width: 60vw;
-	height: auto;
+	width: 560;
+	height: 315;
 	overflow: hidden;
 	object-fit: cover;
 	z-index: 1;
