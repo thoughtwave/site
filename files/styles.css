@@ -157,7 +157,7 @@ video .player {
     z-index: -1;
 	opacity: 0.95;
 	width: 30vw;
-	height: 30vh;
+	height: 20vh;
 	overflow: hidden;	
 }
 
