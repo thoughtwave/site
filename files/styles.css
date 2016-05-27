@@ -124,13 +124,12 @@ section .large-icon {
 }
 
 .video-player {
+	padding-top: 10vh;
 	position: relative;
 	top: 0%;
 	left: 0%;
-	min-height: 216;
-	min-width: 384;
-	max-height: 432;
-	max-width: 768;
+	width: 60vw;
+	height: auto;
 	overflow: hidden;
 	object-fit: cover;
 	z-index: 1;
