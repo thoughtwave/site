@@ -1,11 +1,12 @@
 
 .topbutton {
-            background-color: Transparent;
+            /* background-color: Transparent; */
             background-repeat:no-repeat;
             cursor:pointer;
             overflow: hidden;
-            padding: 0.75vh 1vw 0.75vh 1vw;
-	    font-size: 8vw;
+	    padding-top: 1vh;
+	    padding-bottom: 1vh;
+	    font-size: 8vmin;
          }
 
 .jtbutton {
@@ -24,7 +25,7 @@
 	opacity: 0.99;
 	overflow: hidden;
 	padding: 0 0 0 0 ;
-	background: #337ab7;
+	padding-bottom: 5vh;
 }
 
 form h2 {
@@ -32,10 +33,11 @@ form h2 {
 }
 
 .jumbotron h1 {
-	padding-top: 5vh;
 	font-size: 8vh;
 	font-weight: 700;
 	text-shadow: 0.2vw 0.2vw blue;
+	padding-top: 22vh;
+	padding-bottom: 5vh;
 }
 
 .jumbotron h2 {
@@ -43,7 +45,7 @@ form h2 {
 	font-style: italic;
 	text-transform: capitalize;
 	text-shadow: 0.2vw 0.2vw blue;
-	padding-bottom: 3vh;
+	padding-bottom: 5vh;
 
 }
 
@@ -60,14 +62,8 @@ text-shadow: 0.2vw 0.2vw blue;
 .jumbotron h3 {
  font-size: 3.5vh;
  color: white;
-text-shadow: 0.2vw 0.2vw blue;
+ text-shadow: 0.2vh 0.2vh blue;
  padding-bottom: 6vh;
-}
-
-.jumbotron a h3 {
- font-size: 3.5vw;
- color: white;
-text-shadow: 0.2vw 0.2vw blue;
 }
 
 .jumbotron a {
@@ -128,14 +124,17 @@ section .large-icon {
 }
 
 .video-player {
+	padding-top: 10vh;
 	position: relative;
 	top: 0%;
 	left: 0%;
+	width: 100%;
 	height: auto;
-	width: auto;
 	overflow: hidden;
+	object-fit: cover;
 	z-index: 1;
 }
+
 
 .text-container {
 	position: relative;
@@ -160,8 +159,8 @@ video .player {
 	position: relative;
     z-index: -1;
 	opacity: 0.95;
-	width: 30%;
-	height: 30vh;
+	width: 30vw;
+	height: 20vh;
 	overflow: hidden;	
 }
 
