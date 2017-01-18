@@ -1482,7 +1482,13 @@
 			},
 			{
 				"source": "files/shrunklogo.png",
-				"dest": "PUBLIC_IMAGES_DIR/logo.png"
+				"dest": "PUBLIC_IMAGES_DIR/logo.png",
+				"source_content": ""
+			},
+			{
+				"source": "files/purpleserverroom.gif",
+				"source_content": "",
+				"dest": "PUBLIC_IMAGES_DIR"
 			}
 		],
 		"packages": {
