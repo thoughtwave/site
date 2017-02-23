@@ -4,7 +4,7 @@ NEW=/tmp/${appname}.json
 EXIST=${appname}.json
 while [ true ]
 do
-curl -s https://appdesign.thoughtwave.com/api/getapp/json/ybBQJkPYazqfnmXBR > ${NEW}
+curl -s https://appdesign.thoughtwave.com/api/getapp/json/cjnRGzfPp6eJFtCqs > ${NEW}
 diff ${NEW} ${EXIST}
 if [ $? -gt 0 ]
 then
