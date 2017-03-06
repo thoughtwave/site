@@ -1551,10 +1551,10 @@
 			}
 		],
 		"packages": {
-			"meteor": [
-				" dferber:prerender"
+			"meteor": [],
+			"npm": [
+				"prerender-node"
 			],
-			"npm": [],
 			"mrt": []
 		},
 		"meta_description": "ThoughtWave Technologies",
