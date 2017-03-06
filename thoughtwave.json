@@ -11,7 +11,7 @@
 					"_id": "Meteor.userId()"
 				},
 				"find_one": true,
-				"options": {},
+				"options": "",
 				"related_queries": []
 			}
 		],
@@ -26,6 +26,7 @@
 							"title": "ThoughtWave Technologies, Inc.",
 							"type": "jumbotron",
 							"text": "<!-- <div class = \"video-container\">\n<video class=\"backdrop\" preload = \"true\" autoplay=\"autoplay\" loop=\"loop\" volume=\"0\" src = \"https://dpgeieqhharyy.cloudfront.net/content/datacenter.mp4\" type = \"video/mp4\" >\n</video>\n<video class=\"backdrop\" preload = \"true\" autoplay=\"autoplay\" loop=\"loop\" volume=\"0\" src = \"https://dpgeieqhharyy.cloudfront.net/content/datacenter.webm\" type = \"video/webm\" ></video> \n\t\n\t\t</div>\n-->\n<div class = \"text-container\">\n\t<h2>The invisible hand of technology</h2>\n\t<a href=\"/about\" class=\"topbutton btn btn-lg btn-success\">Learn More &raquo;</a>\n\n\t</div>",
+							"image_url": "/images/purpleserverroom.gif",
 							"imports": [],
 							"dest_selector": "",
 							"dest_position": "",
@@ -38,7 +39,6 @@
 							"custom_data_code": "",
 							"components": [],
 							"template_rendered_code": "",
-							"image_url": "/images/purpleserverroom.gif",
 							"button_title": "",
 							"button_route": "",
 							"button_route_params": [],
@@ -62,6 +62,7 @@
 					"meta_description": "",
 					"meta_title": "",
 					"text": "",
+					"background_image": "",
 					"container_class": "",
 					"route_params": [],
 					"close_route": "",
@@ -73,6 +74,7 @@
 					"related_queries": [],
 					"force_yield_subpages": false,
 					"parent_layout": false,
+					"layout_template": "",
 					"controller_before_action": "",
 					"controller_after_action": ""
 				},
@@ -95,6 +97,7 @@
 					"meta_description": "",
 					"meta_title": "",
 					"text": "",
+					"background_image": "",
 					"container_class": "",
 					"route_params": [],
 					"close_route": "",
@@ -107,6 +110,7 @@
 					"force_yield_subpages": false,
 					"zoneless": false,
 					"parent_layout": false,
+					"layout_template": "",
 					"controller_before_action": "",
 					"controller_after_action": ""
 				},
@@ -129,6 +133,7 @@
 					"meta_description": "",
 					"meta_title": "",
 					"text": "",
+					"background_image": "",
 					"container_class": "",
 					"route_params": [],
 					"close_route": "",
@@ -141,6 +146,7 @@
 					"force_yield_subpages": false,
 					"zoneless": false,
 					"parent_layout": false,
+					"layout_template": "",
 					"controller_before_action": "",
 					"controller_after_action": ""
 				},
@@ -163,6 +169,7 @@
 					"meta_description": "",
 					"meta_title": "",
 					"text": "",
+					"background_image": "",
 					"container_class": "",
 					"route_params": [],
 					"close_route": "",
@@ -175,6 +182,7 @@
 					"force_yield_subpages": false,
 					"zoneless": false,
 					"parent_layout": false,
+					"layout_template": "",
 					"controller_before_action": "",
 					"controller_after_action": ""
 				},
@@ -200,6 +208,7 @@
 					"meta_description": "",
 					"meta_title": "",
 					"text": "",
+					"background_image": "",
 					"container_class": "",
 					"close_route": "",
 					"close_route_params": [],
@@ -211,6 +220,7 @@
 					"force_yield_subpages": false,
 					"zoneless": false,
 					"parent_layout": false,
+					"layout_template": "",
 					"controller_before_action": "",
 					"controller_after_action": ""
 				},
@@ -234,6 +244,7 @@
 					"template_rendered_code": "",
 					"meta_description": "",
 					"meta_title": "",
+					"background_image": "",
 					"container_class": "",
 					"route_params": [],
 					"close_route": "",
@@ -245,6 +256,7 @@
 					"related_queries": [],
 					"force_yield_subpages": false,
 					"parent_layout": false,
+					"layout_template": "",
 					"controller_before_action": "",
 					"controller_after_action": ""
 				},
@@ -268,6 +280,7 @@
 					"template_rendered_code": "",
 					"meta_description": "",
 					"meta_title": "",
+					"background_image": "",
 					"container_class": "",
 					"route_params": [],
 					"close_route": "",
@@ -279,6 +292,7 @@
 					"related_queries": [],
 					"force_yield_subpages": false,
 					"parent_layout": false,
+					"layout_template": "",
 					"controller_before_action": "",
 					"controller_after_action": ""
 				},
@@ -302,6 +316,7 @@
 					"template_rendered_code": "",
 					"meta_description": "",
 					"meta_title": "",
+					"background_image": "",
 					"container_class": "",
 					"route_params": [],
 					"close_route": "",
@@ -313,6 +328,7 @@
 					"related_queries": [],
 					"force_yield_subpages": false,
 					"parent_layout": false,
+					"layout_template": "",
 					"controller_before_action": "",
 					"controller_after_action": ""
 				},
@@ -336,6 +352,7 @@
 					"template_rendered_code": "",
 					"meta_description": "",
 					"meta_title": "",
+					"background_image": "",
 					"container_class": "",
 					"route_params": [],
 					"close_route": "",
@@ -347,6 +364,7 @@
 					"related_queries": [],
 					"force_yield_subpages": false,
 					"parent_layout": false,
+					"layout_template": "",
 					"controller_before_action": "",
 					"controller_after_action": ""
 				},
@@ -378,6 +396,7 @@
 									"input": "text",
 									"input_template": "",
 									"input_group_class": "",
+									"input_control_class": "",
 									"input_items": [],
 									"lookup_query_name": "",
 									"lookup_query_params": [],
@@ -413,6 +432,7 @@
 									"input": "text",
 									"input_template": "",
 									"input_group_class": "",
+									"input_control_class": "",
 									"input_items": [],
 									"lookup_query_name": "",
 									"lookup_query_params": [],
@@ -448,6 +468,7 @@
 									"exportable": false,
 									"input_template": "",
 									"input_group_class": "",
+									"input_control_class": "",
 									"input_items": [],
 									"lookup_query_name": "",
 									"lookup_query_params": [],
@@ -511,6 +532,7 @@
 					"meta_description": "",
 					"meta_title": "",
 					"text": "",
+					"background_image": "",
 					"container_class": "",
 					"route_params": [],
 					"close_route": "",
@@ -522,6 +544,7 @@
 					"related_queries": [],
 					"force_yield_subpages": false,
 					"parent_layout": false,
+					"layout_template": "",
 					"controller_before_action": "",
 					"controller_after_action": ""
 				}
@@ -651,9 +674,14 @@
 			],
 			"type": "zone",
 			"imports": [],
+			"query_name": "",
+			"query_params": [],
 			"custom_data_code": "",
+			"background_image": "",
 			"container_class": "",
+			"layout_template": "",
 			"layout": "",
+			"default_route": "",
 			"footer_class": ""
 		},
 		"private_zone": {
@@ -688,6 +716,7 @@
 											"input": "text",
 											"input_template": "",
 											"input_group_class": "",
+											"input_control_class": "",
 											"input_items": [],
 											"lookup_query_name": "",
 											"lookup_query_params": [],
@@ -723,6 +752,7 @@
 											"input": "text",
 											"input_template": "",
 											"input_group_class": "",
+											"input_control_class": "",
 											"input_items": [],
 											"lookup_query_name": "",
 											"lookup_query_params": [],
@@ -758,6 +788,7 @@
 											"input": "text",
 											"input_template": "",
 											"input_group_class": "",
+											"input_control_class": "",
 											"input_items": [],
 											"lookup_query_name": "",
 											"lookup_query_params": [],
@@ -793,6 +824,7 @@
 											"input": "text",
 											"input_template": "",
 											"input_group_class": "",
+											"input_control_class": "",
 											"input_items": [],
 											"lookup_query_name": "",
 											"lookup_query_params": [],
@@ -828,6 +860,7 @@
 											"input": "text",
 											"input_template": "",
 											"input_group_class": "",
+											"input_control_class": "",
 											"input_items": [],
 											"lookup_query_name": "",
 											"lookup_query_params": [],
@@ -863,6 +896,7 @@
 											"input": "text",
 											"input_template": "",
 											"input_group_class": "",
+											"input_control_class": "",
 											"input_items": [],
 											"lookup_query_name": "",
 											"lookup_query_params": [],
@@ -927,6 +961,7 @@
 							"meta_description": "",
 							"meta_title": "",
 							"text": "",
+							"background_image": "",
 							"container_class": "",
 							"route_params": [],
 							"close_route": "",
@@ -939,6 +974,7 @@
 							"force_yield_subpages": false,
 							"zoneless": false,
 							"parent_layout": false,
+							"layout_template": "",
 							"controller_before_action": "",
 							"controller_after_action": ""
 						},
@@ -961,6 +997,7 @@
 							"meta_description": "",
 							"meta_title": "",
 							"text": "",
+							"background_image": "",
 							"container_class": "",
 							"route_params": [],
 							"close_route": "",
@@ -973,6 +1010,7 @@
 							"force_yield_subpages": false,
 							"zoneless": false,
 							"parent_layout": false,
+							"layout_template": "",
 							"controller_before_action": "",
 							"controller_after_action": ""
 						}
@@ -1038,6 +1076,7 @@
 					"meta_description": "",
 					"meta_title": "",
 					"text": "",
+					"background_image": "",
 					"container_class": "",
 					"route_params": [],
 					"close_route": "",
@@ -1049,6 +1088,7 @@
 					"force_yield_subpages": false,
 					"zoneless": false,
 					"parent_layout": false,
+					"layout_template": "",
 					"controller_before_action": "",
 					"controller_after_action": ""
 				},
@@ -1071,6 +1111,7 @@
 					"meta_description": "",
 					"meta_title": "",
 					"text": "",
+					"background_image": "",
 					"container_class": "",
 					"route_params": [],
 					"close_route": "",
@@ -1083,6 +1124,7 @@
 					"force_yield_subpages": false,
 					"zoneless": false,
 					"parent_layout": false,
+					"layout_template": "",
 					"controller_before_action": "",
 					"controller_after_action": ""
 				},
@@ -1124,6 +1166,7 @@
 									"input": "text",
 									"input_template": "",
 									"input_group_class": "",
+									"input_control_class": "",
 									"input_items": [],
 									"lookup_query_name": "",
 									"lookup_query_params": [],
@@ -1159,6 +1202,7 @@
 									"input": "text",
 									"input_template": "",
 									"input_group_class": "",
+									"input_control_class": "",
 									"input_items": [],
 									"lookup_query_name": "",
 									"lookup_query_params": [],
@@ -1194,6 +1238,7 @@
 									"exportable": false,
 									"input_template": "",
 									"input_group_class": "",
+									"input_control_class": "",
 									"input_items": [],
 									"lookup_query_name": "",
 									"lookup_query_params": [],
@@ -1259,6 +1304,7 @@
 					"meta_description": "",
 					"meta_title": "",
 					"text": "",
+					"background_image": "",
 					"container_class": "",
 					"route_params": [],
 					"close_route": "",
@@ -1271,6 +1317,7 @@
 					"force_yield_subpages": false,
 					"zoneless": false,
 					"parent_layout": false,
+					"layout_template": "",
 					"controller_before_action": "",
 					"controller_after_action": ""
 				}
@@ -1455,30 +1502,42 @@
 			],
 			"type": "zone",
 			"imports": [],
+			"query_name": "",
+			"query_params": [],
 			"custom_data_code": "",
+			"background_image": "",
 			"container_class": "",
+			"layout_template": "",
 			"layout": "",
+			"default_route": "",
 			"footer_class": ""
 		},
 		"free_zone": {
 			"type": "zone",
 			"imports": [],
+			"query_name": "",
+			"query_params": [],
 			"custom_data_code": "",
 			"components": [],
+			"background_image": "",
 			"container_class": "",
 			"pages": [],
+			"layout_template": "",
 			"layout": "",
+			"default_route": "",
 			"navbar_class": "",
 			"footer_class": ""
 		},
 		"copy_files": [
 			{
 				"source": "files/styles.css",
-				"dest": "CLIENT_STYLES_DIR"
+				"dest": "CLIENT_STYLES_DIR",
+				"source_content": ""
 			},
 			{
 				"source": "files/jk.jpg",
-				"dest": "PUBLIC_IMAGES_DIR"
+				"dest": "PUBLIC_IMAGES_DIR",
+				"source_content": ""
 			},
 			{
 				"source": "files/shrunklogo.png",
@@ -1487,12 +1546,14 @@
 			},
 			{
 				"source": "files/purpleserverroom.gif",
-				"source_content": "",
-				"dest": "PUBLIC_IMAGES_DIR"
+				"dest": "PUBLIC_IMAGES_DIR",
+				"source_content": ""
 			}
 		],
 		"packages": {
-			"meteor": [],
+			"meteor": [
+				" dferber:prerender"
+			],
 			"npm": [],
 			"mrt": []
 		},
@@ -1505,6 +1566,7 @@
 		"default_role": "user",
 		"templating": "blaze",
 		"frontend": "bootstrap3",
+		"animate": false,
 		"use_collection2": false,
 		"login_with_password": true,
 		"send_verification_email": false,
@@ -1518,14 +1580,14 @@
 		"client_startup_code": "",
 		"on_user_created_code": "",
 		"on_user_logged_code": "",
+		"global_on_rendered_code": "",
 		"server_startup_source_file": "",
 		"client_startup_source_file": "",
 		"on_user_created_source_file": "",
 		"on_user_logged_source_file": "",
+		"mobile_config": "",
+		"stylesheet": "",
 		"server_side_routes": [],
-		"router_config": {},
-		"animate": false,
-		"global_on_rendered_code": "",
-		"mobile_config": ""
+		"router_config": {}
 	}
 }
