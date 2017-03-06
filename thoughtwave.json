@@ -26,7 +26,7 @@
 							"title": "ThoughtWave Technologies, Inc.",
 							"type": "jumbotron",
 							"text": "<!-- <div class = \"video-container\">\n<video class=\"backdrop\" preload = \"true\" autoplay=\"autoplay\" loop=\"loop\" volume=\"0\" src = \"https://dpgeieqhharyy.cloudfront.net/content/datacenter.mp4\" type = \"video/mp4\" >\n</video>\n<video class=\"backdrop\" preload = \"true\" autoplay=\"autoplay\" loop=\"loop\" volume=\"0\" src = \"https://dpgeieqhharyy.cloudfront.net/content/datacenter.webm\" type = \"video/webm\" ></video> \n\t\n\t\t</div>\n-->\n<div class = \"text-container\">\n\t<h2>The invisible hand of technology</h2>\n\t<a href=\"/about\" class=\"topbutton btn btn-lg btn-success\">Learn More &raquo;</a>\n\n\t</div>",
-							"image_url": "/images/purpleserverroom.gif",
+							"image_url": "https://tsunamicdn.com/thoughtwave/purpleserverroom.gif",
 							"imports": [],
 							"dest_selector": "",
 							"dest_position": "",
@@ -1542,11 +1542,6 @@
 			{
 				"source": "files/shrunklogo.png",
 				"dest": "PUBLIC_IMAGES_DIR/logo.png",
-				"source_content": ""
-			},
-			{
-				"source": "files/purpleserverroom.gif",
-				"dest": "PUBLIC_IMAGES_DIR",
 				"source_content": ""
 			}
 		],
